@@ -1,0 +1,11 @@
+# macos
+.DS_Store
+
+# vscode
+.vscode/
+Satellite-Optimization.code-workspace
+
+# extra file
+*.pdf
+*.exe
+*.out
